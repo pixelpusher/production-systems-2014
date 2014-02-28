@@ -8,7 +8,8 @@ h1.bigger {
 
 /* Just for testing! Remove this later. */
 div {
-	border: 1px solid green;
+	/*border: 1px solid green;*/
+    
 }
 /* end testing */
 
@@ -20,7 +21,8 @@ div {
 
 /* this has the logo and menu in it */
 #header {
-	height: 140px;
+	height: 180px;
+    background-color:#ffabef;
 }
 
 #left-col {
